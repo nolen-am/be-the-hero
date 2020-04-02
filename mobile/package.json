@@ -13,6 +13,7 @@
     "@react-navigation/stack": "^5.2.9",
     "expo": "35.0.0",
     "expo-constants": "~7.0.0",
+    "expo-mail-composer": "~7.0.0",
     "react": "~16.9.0",
     "react-dom": "~16.9.0",
     "react-native": "https://github.com/expo/react-native/archive/sdk-35.0.0.tar.gz",
