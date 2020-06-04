@@ -93,4 +93,4 @@ Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para
 
 
 
-<p align="left">Feito com ❤️ by <strong>Lenon Alcântara :alien: </p>
+<p align="left">By <strong>Lenon Alcântara :alien: </p>
